@@ -1,4 +1,4 @@
-# fluter_hitesh
+# Currency_App
 
 A new Flutter project.
 
